@@ -2,7 +2,7 @@ package client
 
 import (
 	"encoding/json"
-	"go.etcd.io/coreos/etcd/clientv3"
+	"go.etcd.io/etcd/clientv3"
 	. "gopkg.in/check.v1"
 	"strconv"
 )

@@ -1,7 +1,7 @@
 package client
 
 import (
-	"go.etcd.io/coreos/etcd/clientv3"
+	"go.etcd.io/etcd/clientv3"
 )
 
 // list a directory
