@@ -1,8 +1,8 @@
 package client
 
 import (
-	"github.com/coreos/etcd/clientv3"
-	"github.com/coreos/etcd/mvcc/mvccpb"
+	"go.etcd.io/coreos/etcd/clientv3"
+	"go.etcd.io/coreos/etcd/mvcc/mvccpb"
 	"strings"
 )
 
